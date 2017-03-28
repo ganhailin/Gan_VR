@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1486142445 source:c:\users\gan\documents\github\gan_vr\3d.cpp
+	"SDL2/SDL.h"
+	<math.h>
+	<stdlib.h>
+	"3D.h"
+	"draw.h"
+	"ASICC.h"
+	<string.h>
+	<stdio.h>
+
+1486138428 c:\users\gan\documents\github\gan_vr\3d.h
+
+1482597299 c:\users\gan\documents\github\gan_vr\draw.h
+
+1414160836 c:\users\gan\documents\github\gan_vr\asicc.h
+
+1486141254 source:c:\users\gan\documents\github\gan_vr\draw.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_syswm.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	"draw.h"
+	"touch.h"
+	"3D.h"
+
+1451022022 c:\users\gan\documents\github\gan_vr\touch.h
+
+1414469068 source:c:\users\gan\documents\github\gan_vr\icon.rc
+
+1481906455 source:c:\users\gan\documents\github\gan_vr\objloader.cpp
+	"objloader.h"
+	<stdio.h>
+	<memory.h>
+	<float.h>
+
+1481905743 c:\users\gan\documents\github\gan_vr\objloader.h
+	<stdint.h>
+	<stdbool.h>
+	<stdlib.h>
+	"objloader.h"
+	<stdio.h>
+
+1486124725 source:c:\users\gan\documents\github\gan_vr\rs232.c
+	"rs232.h"
+
+1383127037 c:\users\gan\documents\github\gan_vr\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<windows.h>
+
+1476880570 source:c:\users\gan\documents\github\gan_vr\touch.cpp
+	<SDL2/SDL.h>
+	<pthread.h>
+	"touch.h"
+	<memory.h>
+	<time.h>
+	<math.h>
+
+1486142316 source:c:\users\gan\documents\github\gan_vr\main.cpp
+	<time.h>
+	<math.h>
+	"SDL2/SDL.h"
+	"SDL2/SDL_ttf.h"
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<pthread.h>
+	<string.h>
+	"3D.h"
+	"draw.h"
+	"touch.h"
+	"objloader.h"
+	<windows.h>
+	<inttypes.h>
+	"rs232.h"
+
